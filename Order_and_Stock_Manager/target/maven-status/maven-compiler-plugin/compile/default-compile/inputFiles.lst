@@ -1,0 +1,10 @@
+C:\Users\David\IdeaProjects\Order_and_Stock_Manager\src\main\java\com\orderstock\database\DatabaseConnector.java
+C:\Users\David\IdeaProjects\Order_and_Stock_Manager\src\main\java\com\orderstock\Main.java
+C:\Users\David\IdeaProjects\Order_and_Stock_Manager\src\main\java\com\orderstock\model\Products.java
+C:\Users\David\IdeaProjects\Order_and_Stock_Manager\src\main\java\com\orderstock\repository\ProductRepository.java
+C:\Users\David\IdeaProjects\Order_and_Stock_Manager\src\main\java\com\orderstock\model\Order.java
+C:\Users\David\IdeaProjects\Order_and_Stock_Manager\src\main\java\com\orderstock\rabbitmq\RabbitMQConnector.java
+C:\Users\David\IdeaProjects\Order_and_Stock_Manager\src\main\java\com\orderstock\processor\StockProcessor.java
+C:\Users\David\IdeaProjects\Order_and_Stock_Manager\src\main\java\com\orderstock\processor\OrderProcessor.java
+C:\Users\David\IdeaProjects\Order_and_Stock_Manager\src\main\java\com\orderstock\repository\OrderRepository.java
+C:\Users\David\IdeaProjects\Order_and_Stock_Manager\src\main\java\com\orderstock\model\Product.java

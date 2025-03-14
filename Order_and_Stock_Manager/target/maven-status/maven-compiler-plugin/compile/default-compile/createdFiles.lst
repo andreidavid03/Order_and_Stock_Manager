@@ -1,0 +1,10 @@
+com\orderstock\model\Product.class
+com\orderstock\rabbitmq\RabbitMQConnector.class
+com\orderstock\database\DatabaseConnector.class
+com\orderstock\Main.class
+com\orderstock\model\Order.class
+com\orderstock\processor\StockProcessor.class
+com\orderstock\model\Products.class
+com\orderstock\processor\OrderProcessor.class
+com\orderstock\repository\OrderRepository.class
+com\orderstock\repository\ProductRepository.class

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Product>
+        <id>1</id>
+        <name>Apple iPhone 13</name>
+        <quantity>50</quantity>
+        <price>999.99</price>
+    </Product>
+    <Product>
+        <id>2</id>
+        <name>Samsung Galaxy S21</name>
+        <quantity>30</quantity>
+        <price>899.99</price>
+    </Product>
+    <Product>
+        <id>3</id>
+        <name>Sony WH-1000XM4</name>
+        <quantity>20</quantity>
+        <price>349.99</price>
+    </Product>
+    <Product>
+        <id>4</id>
+        <name>Dell XPS 13</name>
+        <quantity>15</quantity>
+        <price>1199.99</price>
+    </Product>
+    <Product>
+        <id>5</id>
+        <name>Apple MacBook Pro</name>
+        <quantity>10</quantity>
+        <price>1999.99</price>
+    </Product>
+</Products>
